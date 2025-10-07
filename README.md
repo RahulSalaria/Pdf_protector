@@ -106,15 +106,3 @@ PdfReadError: Invalid or corrupted PDF
 Other unexpected errors
 
 This ensures smooth execution and user feedback.
-
-🌟 Expected Learning Outcomes
-
-By completing this project, you will:
-
-Understand file handling and binary data in Python
-
-Learn PDF manipulation using PyPDF2
-
-Understand basic encryption and decryption concepts
-
-Gain confidence in building command-line Python tools
